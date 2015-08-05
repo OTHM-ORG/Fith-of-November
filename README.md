@@ -1,3 +1,18 @@
+<svg width="120" height="120" viewBox="0 0 120 120"
+     xmlns="http://www.w3.org/2000/svg" version="1.1"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <defs>
+        <radialGradient id="MyGradient">
+            <stop offset="0%" stop-color="white"/>
+            <stop offset="85%" stop-color="orange"/>
+            <stop offset="100%" stop-color="dark-brown"/>
+        </radialGradient>
+    </defs>
+
+    <circle fill="url(#MyGradient)"
+            cx="60" cy="60" r="50"/>
+</svg>
 # Fith-of-November
 Could you remember  
 the words that would render  
