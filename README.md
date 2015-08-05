@@ -1,14 +1,9 @@
 # Fith-of-November
 Could you remember
-
 the words that would render
-
 on pages, long long ago
-
 we could stop and realise
-
 those broken ties
-
 with the seeds they left to sow.
 
 
